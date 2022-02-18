@@ -6,3 +6,5 @@ through the online lessons in the [introduction to earth data science textbook o
 Here is some more text.
 
 I am here adding some of the new content
+
+Here to helping me to understand more
